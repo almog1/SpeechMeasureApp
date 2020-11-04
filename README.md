@@ -1,8 +1,8 @@
 # Speech Measure Project Application
 
 This is part of speech rate measure project. <br />
-In this client-server web-application , you can upload/record audio file , and get the predicted SPS(Syllables Per Second <br />
-We used ML model to predict, For further information about the Machine Learning model we used and its creation, you can find [here](https://github.com/Jenny-Smolensky/ML-SpeechRateMeasure.git) <br />
+In this client-server web-application , you can upload/record audio file , and get the predicted SPS(Syllables Per Second). <br />
+We used ML model to predict, for further information about the Machine Learning model we used and its creation, you can find [here](https://github.com/Jenny-Smolensky/ML-SpeechRateMeasure.git) <br />
 
 ## Sub Modules
 This project contain the client and server sides:
