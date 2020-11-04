@@ -1,4 +1,4 @@
-# Speech Measure Project - Application - Client and Server
+# Speech Measure Project Application
 
 This is part of speech rate measure project.
 In this client-server web-application , you can upload/record audio file , and get the predicted SPS(Syllables Per Second)
