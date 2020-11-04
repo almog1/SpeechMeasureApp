@@ -1,0 +1,6 @@
+[submodule "SpeechMeasureServer"]
+	path = SpeechMeasureServer
+	url = https://github.com/almog1/SpeechMeasureServer.git
+[submodule "speech-rate-client"]
+	path = speech-rate-client
+	url = https://github.com/Jenny-Smolensky/speech-rate-client.git
